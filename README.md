@@ -6,9 +6,9 @@ This project entails the development of a comprehensive Bank Loan Report using S
 
 * Loan Portfolio Overview: A comprehensive view of the total number of loans, total loan amount disbursed, average loan size, and loan types.
 
-* Customer Demographics: Analysis of loan distribution based on customer demographics such as employment status, and geographic location.
+* Customer Demographics: Analysis of loan distribution based on customer demographics such as employment length, and geographic location.
   
-* Loan Performance Analysis: Metrics on repayment rates, delinquencies, default rates, and overall loan performance.
+* Loan Performance Analysis: Metrics on interest rates, delinquencies, default rates, and overall loan performance.
   
 * Risk Assessment: Identification of high-risk loans and customers based on factors like debt-to-income ratio.
   
